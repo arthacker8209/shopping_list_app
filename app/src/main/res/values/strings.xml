@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping_list_app</string>
+    <string name="item">Item</string>
+    <string name="amount">Amount</string>
+    <string name="label">"Add "</string>
+    <string name="extended_fab_content_desc">Add</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
